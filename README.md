@@ -1,12 +1,14 @@
 # Programming C++ with VSCode
 
-This repository has the basic setup to compile C++14 code using VSCode
+This repository has the basic setup to compile C++14 code using VSCode on MacOS.
 
 # Install
 
-Clone the repository. By default it expects the main file `main.cc`.
+1. Clone the repository. By default it expects the main file `main.cc`.
 
-Install the cpptools `code --install-extension ms-vscode.cpptools `.
+2. Install the cpptools `code --install-extension ms-vscode.cpptools `.
+
+3. run `chmod +x ./tasks.sh`
 
 # Tasks
 
