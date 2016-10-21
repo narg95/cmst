@@ -6,6 +6,8 @@ This repository has the basic setup to compile C++14 code using VSCode
 
 Clone the repository. By default it expects the main file `main.cc`. 
 
+# Tasks
+
 It provides three main Tasks:
 
 * `./tasks.sh build`: Builds `main.cc`
