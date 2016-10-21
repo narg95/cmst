@@ -4,7 +4,9 @@ This repository has the basic setup to compile C++14 code using VSCode
 
 # Install
 
-Clone the repository. By default it expects the main file `main.cc`. 
+Clone the repository. By default it expects the main file `main.cc`.
+
+Install the cpptools `code --install-extension ms-vscode.cpptools `.
 
 # Tasks
 
