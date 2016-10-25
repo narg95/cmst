@@ -6,7 +6,7 @@ This repository has the basic setup to compile C++14 code using VSCode on MacOS.
 
 1. Clone the repository. By default it expects the main file `main.cc`.
 
-2. Install the cpptools `code --install-extension ms-vscode.cpptools `.
+2. Install the vscode extension *cpptools* `code --install-extension ms-vscode.cpptools `.
 
 3. run `chmod +x ./tasks.sh`
 
